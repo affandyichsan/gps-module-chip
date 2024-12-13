@@ -1,0 +1,11 @@
+{
+  "name": "gps-module",
+  "author": "Adam",
+  "pins": [
+    "VCC",
+    "GND",
+    "TX",
+    "RX"
+  ],
+  "controls": []
+}
