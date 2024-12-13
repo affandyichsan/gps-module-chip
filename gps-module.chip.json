@@ -1,6 +1,6 @@
 {
   "name": "gps-module",
-  "author": "Adam",
+  "author": "affandy-ichsan",
   "pins": [
     "VCC",
     "GND",
